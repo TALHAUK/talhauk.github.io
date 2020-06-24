@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>The Short talk Podcast</title>
+	<link>https://talhauk.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://talhauk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+	<copyright>© 2020 The Short talk Podcast</copyright>
+	<itunes:subtitle>Podcast</itunes:subtitle>
+	<itunes:author>TALHAUK</itunes:author>
+	<itunes:summary>
+	Incredibly powerful motivational and inspirational speeches.
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	The Short Talk Podcast: Cuppa boys waffling straight facts with #nofilter about life, people, politics and more Have a look at the world in the view of a few 18 year olds stuck in lockdown from the Great Britian!!
+	</description>
+	<itunes:owner>
+	<itunes:name>Short Talk Podcast</itunes:name>
+	<itunes:email>shorttalkpodcast@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://talhauk.github.io/logo.png"/>
+	<itunes:category text="Comedy">
+	<itunes:category text="Self-Help"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+<item>
+<itunes:author>Short Talk Podcast</itunes:author>
+<title>The Short Talk Podcast: Episode 1 (Introduction, BLM, Media and Politics)</title>
+<itunes:title>The Short Talk Podcast: Episode 1 (Introduction, BLM, Media and Politics)</itunes:title>
+
+<itunes:subtitle>Bunch of wafflers talkin'</itunes:subtitle>
+<description><![CDATA[<p>Welcome to our first episode! Meet the team and hear our first attempt of waffling on a podcast!</p>]]></description>
+<content:encoded><![CDATA[<p>Welcome to our first episode! Meet the team and hear our first attempt of waffling on a podcast!</p>]]></content:encoded>
+<itunes:image href="https://talhauk.github.io/logo.png"/>
+<itunes:author>shortttalkpodcast@gmail.com</itunes:author>
+<itunes:summary>Welcome to our first episode! Meet the team and hear our first attempt of waffling on a podcast!</itunes:summary>
+<enclosure url="https://srv-file9.gofile.io/download/AZJqfx/1-fullaudio.mp3" length="46489995" type="audio/mpeg" />
+<itunes:duration>272.136</itunes:duration>
+<guid isPermaLink='false'>https://srv-file9.gofile.io/download/AZJqfx/1-fullaudio.mp3</guid>
+<pubDate>Tue, 23 Jun 2020 17:00:00 -0400</pubDate>
+<itunes:duration>3872</itunes:duration>
+<itunes:keywords></itunes:keywords>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit>
+</item>
+
+
+</channel></rss>
